@@ -1,0 +1,9 @@
+{
+  "name": "tutorial-react",
+  "version": "0.0.0",
+  "dependencies": {
+    "react": "~0.12.1",
+    "react-tools": "~0.12.1"
+  },
+  "devDependencies": {}
+}
