@@ -1,4 +1,14 @@
+var CommentBox = React.createClass({
+	render: function() {
+		return (
+			<div className="commentBox">
+				Here's come the comment box
+			</div>
+		);
+	}
+});
+
 React.render(
-	<h1>Hello, world!</h1>,
-	document.getElementById('example')
+	<CommentBox/>,
+	document.getElementById('content')
 );
